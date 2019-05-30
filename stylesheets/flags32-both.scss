@@ -1,7 +1,6 @@
-$flags-images-path: "../../images" !default; //Override this variable in your .scss to use bower.
 .f32 {
 
-    .flag{background:url(#{$flags-images-path}/flags32.png) no-repeat;}
+    .flag{background:url(https://github.com/jimasp/world-flags-sprite/blob/master/images/flags32.png) no-repeat;}
 
     ._African_Union{background-position:0 -32px;}
     ._Arab_League{background-position:0 -64px;}
